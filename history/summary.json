@@ -22,19 +22,19 @@
     "url": "https://meta.appinn.net",
     "icon": "https://favicons.githubusercontent.com/meta.appinn.net",
     "slug": "meta-appinn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1781,
-    "timeDay": 1887,
-    "timeWeek": 1781,
-    "timeMonth": 1781,
-    "timeYear": 1781,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 1784,
+    "timeDay": 1847,
+    "timeWeek": 1784,
+    "timeMonth": 1784,
+    "timeYear": 1784,
     "dailyMinutesDown": {
-      "2021-05-10": 0
+      "2021-05-10": 24
     }
   },
   {
