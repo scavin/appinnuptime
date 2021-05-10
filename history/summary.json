@@ -22,9 +22,9 @@
     "url": "https://meta.appinn.net",
     "icon": "https://favicons.githubusercontent.com/meta.appinn.net",
     "slug": "meta-appinn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1781,
     "timeMonth": 1781,
     "timeYear": 1781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-10": 0
+    }
   },
   {
     "name": "Appinn Images Server(AIS)",
