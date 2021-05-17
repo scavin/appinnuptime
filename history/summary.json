@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 135,
-    "timeWeek": 159,
+    "timeDay": 166,
+    "timeWeek": 144,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/meta.appinn.net",
     "slug": "meta-appinn",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1756,
-    "timeDay": 1796,
-    "timeWeek": 1744,
-    "timeMonth": 1756,
-    "timeYear": 1756,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1747,
+    "timeDay": 1611,
+    "timeWeek": 1710,
+    "timeMonth": 1747,
+    "timeYear": 1747,
     "dailyMinutesDown": {
       "2021-05-10": 24
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 954,
-    "timeWeek": 824,
-    "timeMonth": 862,
-    "timeYear": 862,
+    "time": 863,
+    "timeDay": 870,
+    "timeWeek": 840,
+    "timeMonth": 863,
+    "timeYear": 863,
     "dailyMinutesDown": {}
   }
 ]
