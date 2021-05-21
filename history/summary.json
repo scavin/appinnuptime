@@ -22,9 +22,9 @@
     "url": "https://meta.appinn.net",
     "icon": "https://favicons.githubusercontent.com/meta.appinn.net",
     "slug": "meta-appinn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -34,6 +34,7 @@
     "timeMonth": 1750,
     "timeYear": 1750,
     "dailyMinutesDown": {
+      "2021-05-21": 0,
       "2021-05-10": 24
     }
   },
