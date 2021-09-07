@@ -22,7 +22,7 @@
     "url": "https://meta.appinn.net",
     "icon": "https://favicons.githubusercontent.com/meta.appinn.net",
     "slug": "meta-appinn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "96.10%",
     "uptimeWeek": "99.44%",
@@ -30,7 +30,7 @@
     "uptimeYear": "99.75%",
     "time": 1773,
     "timeDay": 1578,
-    "timeWeek": 1717,
+    "timeWeek": 1705,
     "timeMonth": 1778,
     "timeYear": 1773,
     "dailyMinutesDown": {
