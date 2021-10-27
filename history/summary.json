@@ -67,11 +67,11 @@
     "url": "https://img3.appinn.net",
     "icon": "https://favicons.githubusercontent.com/img3.appinn.net",
     "slug": "appinn-images-server-ais",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 919,
     "timeDay": 867,
@@ -79,7 +79,7 @@
     "timeMonth": 902,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2021-10-27": 29,
+      "2021-10-27": 21,
       "2021-07-31": 19
     }
   }
