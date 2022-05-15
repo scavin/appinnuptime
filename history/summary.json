@@ -4,7 +4,7 @@
     "url": "https://www.appinn.com",
     "icon": "https://favicons.githubusercontent.com/www.appinn.com",
     "slug": "appinn-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 235,
     "timeMonth": 232,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-15": 0
+    }
   },
   {
     "name": "META.APPINN",
@@ -29,7 +31,7 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.80%",
     "time": 1692,
-    "timeDay": 1332,
+    "timeDay": 1289,
     "timeWeek": 1410,
     "timeMonth": 1517,
     "timeYear": 1690,
