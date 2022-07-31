@@ -10,11 +10,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.88%",
-    "time": 678,
-    "timeDay": 1437,
-    "timeWeek": 1495,
-    "timeMonth": 1666,
-    "timeYear": 788,
+    "time": 680,
+    "timeDay": 1307,
+    "timeWeek": 1480,
+    "timeMonth": 1659,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2022-07-28": 15,
       "2022-07-10": 17,
@@ -50,12 +50,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 1736,
-    "timeDay": 2778,
-    "timeWeek": 2040,
-    "timeMonth": 1883,
-    "timeYear": 1729,
+    "timeDay": 1337,
+    "timeWeek": 2064,
+    "timeMonth": 1872,
+    "timeYear": 1726,
     "dailyMinutesDown": {
       "2022-07-09": 19,
       "2022-07-06": 19,
@@ -99,8 +99,7 @@
       "2021-08-23": 23,
       "2021-08-12": 20,
       "2021-08-11": 19,
-      "2021-08-01": 16,
-      "2021-07-31": 21
+      "2021-08-01": 16
     }
   },
   {
@@ -109,15 +108,15 @@
     "icon": "https://favicons.githubusercontent.com/img3.appinn.net",
     "slug": "appinn-images-server-ais",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
-    "time": 874,
-    "timeDay": 832,
-    "timeWeek": 860,
-    "timeMonth": 835,
+    "time": 873,
+    "timeDay": 395,
+    "timeWeek": 805,
+    "timeMonth": 821,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2022-05-26": 657,
@@ -127,8 +126,7 @@
       "2022-05-07": 20,
       "2022-04-09": 30,
       "2021-11-02": 21,
-      "2021-10-27": 21,
-      "2021-07-31": 19
+      "2021-10-27": 21
     }
   }
 ]
