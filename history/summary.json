@@ -4,9 +4,9 @@
     "url": "https://www.appinn.com",
     "icon": "https://favicons.githubusercontent.com/www.appinn.com",
     "slug": "appinn-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.87%",
@@ -16,6 +16,7 @@
     "timeMonth": 2510,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2022-08-25": 0,
       "2022-08-04": 33,
       "2022-07-28": 15,
       "2022-07-10": 17,
@@ -55,7 +56,7 @@
     "time": 1756,
     "timeDay": 1946,
     "timeWeek": 1580,
-    "timeMonth": 2166,
+    "timeMonth": 2115,
     "timeYear": 1750,
     "dailyMinutesDown": {
       "2022-08-19": 169,
