@@ -8,7 +8,7 @@ sites:
   - name: META.APPINN
     url: https://meta.appinn.net
   - name: Appinn Images Server(AIS)
-    url: https://img3.appinn.net
+    url: https://img3.appinn.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
