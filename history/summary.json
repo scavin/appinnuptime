@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 867,
-    "timeDay": 901,
-    "timeWeek": 963,
-    "timeMonth": 904,
-    "timeYear": 884,
+    "timeDay": 973,
+    "timeWeek": 984,
+    "timeMonth": 911,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2024-08-15": 539,
       "2024-08-14": 1157
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 584,
-    "timeDay": 618,
-    "timeWeek": 709,
-    "timeMonth": 629,
-    "timeYear": 578,
+    "timeDay": 412,
+    "timeWeek": 690,
+    "timeMonth": 625,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2024-12-20": 18,
       "2024-09-16": 36,
@@ -47,8 +47,7 @@
       "2024-03-26": 58,
       "2024-03-25": 3,
       "2024-03-17": 27,
-      "2024-02-26": 22,
-      "2024-02-16": 34
+      "2024-02-26": 22
     }
   },
   {
@@ -57,16 +56,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/static1.appinn.com.ico",
     "slug": "appinn-images-server-ais",
     "status": "down",
-    "uptime": "93.58%",
+    "uptime": "93.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "77.70%",
-    "time": 1367,
+    "time": 1370,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2056,
+    "timeYear": 2069,
     "dailyMinutesDown": {
       "2024-07-30": 1006,
       "2024-07-29": 1440,
