@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 868,
-    "timeDay": 897,
-    "timeWeek": 816,
-    "timeMonth": 909,
-    "timeYear": 884,
+    "timeDay": 1149,
+    "timeWeek": 840,
+    "timeMonth": 922,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2024-08-15": 539,
       "2024-08-14": 1157
@@ -27,15 +27,15 @@
     "slug": "meta-appinn",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "93.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.61%",
     "time": 584,
-    "timeDay": 629,
-    "timeWeek": 605,
-    "timeMonth": 648,
-    "timeYear": 580,
+    "timeDay": 849,
+    "timeWeek": 643,
+    "timeMonth": 654,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-02-23": 87,
       "2024-12-20": 18,
@@ -47,8 +47,7 @@
       "2024-04-14": 19,
       "2024-03-26": 58,
       "2024-03-25": 3,
-      "2024-03-17": 27,
-      "2024-02-26": 22
+      "2024-03-17": 27
     }
   },
   {
@@ -62,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "77.70%",
-    "time": 1398,
+    "time": 1402,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2204,
+    "timeYear": 2222,
     "dailyMinutesDown": {
       "2024-07-30": 1006,
       "2024-07-29": 1440,
