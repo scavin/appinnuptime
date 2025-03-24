@@ -5,10 +5,13 @@ repo: appinnuptime # The name of this repository
 sites:
   - name: Appinn.com
     url: https://www.appinn.com
+  - name: cnAppinn
+    url: https://cn.appinn.com  
   - name: META.APPINN
     url: https://meta.appinn.net
   - name: Appinn Images Server(AIS)
-    url: https://static1.appinn.com
+    url: https://static2.appinn.com
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,7 +20,7 @@ status-website:
   favicon: https://github.com/scavin/static_appinn/blob/master/apple-touch-icon-144x144.png?raw=true
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/scavin/static_appinn/blob/master/appinn-dark-logo.png?raw=true
-  name: Appinn 服务器的在线状态
+  name: Appinn Status｜小众软件服务器的在线状态
   introTitle: "小众软件的服务器还好吗？"
   introMessage: 这里是小众软件的服务器状态页面，用来看看她们还好吗？包括了：[小众软件](https://www.appinn.com/)、[小众软件论坛](https://meta.appinn.net)、[AIS](https://img3.appinn.net)
   theme: dark
