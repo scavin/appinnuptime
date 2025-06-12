@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.29%",
+    "uptimeWeek": "97.22%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.31%",
     "time": 898,
     "timeDay": 994,
-    "timeWeek": 1036,
+    "timeWeek": 1050,
     "timeMonth": 961,
     "timeYear": 918,
     "dailyMinutesDown": {
@@ -31,18 +31,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cn.appinn.com.ico",
     "slug": "cn-appinn",
     "status": "up",
-    "uptime": "97.61%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "97.61%",
+    "uptime": "97.63%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "97.63%",
     "time": 3850,
     "timeDay": 1678,
     "timeWeek": 4927,
     "timeMonth": 4856,
     "timeYear": 3850,
     "dailyMinutesDown": {
-      "2025-06-11": 55,
+      "2025-06-11": 41,
       "2025-06-10": 30,
       "2025-06-08": 15,
       "2025-06-07": 18,
@@ -131,7 +131,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.65%",
+    "uptimeYear": "86.68%",
     "time": 1624,
     "timeDay": 712,
     "timeWeek": 1009,
@@ -185,8 +185,7 @@
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
-      "2024-06-13": 1440,
-      "2024-06-12": 1440
+      "2024-06-13": 1440
     }
   }
 ]
