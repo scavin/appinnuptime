@@ -11,18 +11,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 925,
-    "timeDay": 1026,
-    "timeWeek": 1040,
-    "timeMonth": 1031,
-    "timeYear": 946,
+    "timeDay": 743,
+    "timeWeek": 1001,
+    "timeMonth": 1023,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2025-06-06": 18,
       "2025-06-05": 323,
       "2025-06-04": 290,
       "2025-03-24": 852,
       "2025-03-23": 458,
-      "2024-08-15": 539,
-      "2024-08-14": 1157
+      "2024-08-15": 539
     }
   },
   {
@@ -31,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cn.appinn.com.ico",
     "slug": "cn-appinn",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "98.16%",
-    "time": 4297,
-    "timeDay": 2337,
-    "timeWeek": 2184,
+    "uptimeYear": "98.17%",
+    "time": 4291,
+    "timeDay": 2241,
+    "timeWeek": 2153,
     "timeMonth": 7400,
-    "timeYear": 4297,
+    "timeYear": 4291,
     "dailyMinutesDown": {
       "2025-07-29": 51,
       "2025-07-28": 194,
@@ -118,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.38%",
-    "time": 781,
-    "timeDay": 1120,
-    "timeWeek": 1114,
+    "time": 782,
+    "timeDay": 1054,
+    "timeWeek": 1101,
     "timeMonth": 1166,
-    "timeYear": 893,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-07-22": 27,
       "2025-03-24": 852,
@@ -132,8 +131,7 @@
       "2025-02-23": 87,
       "2024-12-20": 18,
       "2024-09-16": 36,
-      "2024-08-15": 539,
-      "2024-08-14": 1157
+      "2024-08-15": 539
     }
   },
   {
@@ -142,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/static2.appinn.com.ico",
     "slug": "appinn-images-server-ais",
     "status": "down",
-    "uptime": "94.32%",
+    "uptime": "94.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1708,
-    "timeDay": 1244,
-    "timeWeek": 1045,
-    "timeMonth": 1027,
-    "timeYear": 1060,
+    "time": 1712,
+    "timeDay": 1308,
+    "timeWeek": 1047,
+    "timeMonth": 1035,
+    "timeYear": 1062,
     "dailyMinutesDown": {}
   }
 ]
