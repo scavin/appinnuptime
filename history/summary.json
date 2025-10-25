@@ -34,18 +34,19 @@
     "url": "https://cn.appinn.com",
     "icon": "https://icons.duckduckgo.com/ip3/cn.appinn.com.ico",
     "slug": "cn-appinn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.38%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "98.54%",
     "time": 4592,
     "timeDay": 2054,
     "timeWeek": 3694,
-    "timeMonth": 4750,
+    "timeMonth": 4682,
     "timeYear": 4592,
     "dailyMinutesDown": {
+      "2025-10-25": 0,
       "2025-10-14": 41,
       "2025-10-11": 28,
       "2025-10-06": 44,
@@ -119,7 +120,7 @@
       "2025-04-13": 76,
       "2025-04-12": 45,
       "2025-04-11": 136,
-      "2025-04-10": 96
+      "2025-04-10": 80
     }
   },
   {
