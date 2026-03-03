@@ -9,8 +9,10 @@ sites:
     url: https://cn.appinn.com  
   - name: META.APPINN
     url: https://meta.appinn.net
-  - name: Appinn Images Server(AIS)
-    url: https://static2.appinn.com
+  - name: Appinn Meta Images Server(AMIS)
+    url: https://h2.appinn.me/health
+    expectedStatusCodes:
+      - 200
     
 
 status-website:
@@ -22,7 +24,7 @@ status-website:
   logoUrl: https://github.com/scavin/static_appinn/blob/master/appinn-dark-logo.png?raw=true
   name: Appinn Status｜小众软件服务器的在线状态
   introTitle: "小众软件的服务器还好吗？"
-  introMessage: 这里是小众软件的服务器状态页面，用来看看她们还好吗？包括了：[小众软件](https://www.appinn.com/)、[小众软件论坛](https://meta.appinn.net)、[AIS](https://img3.appinn.net)
+  introMessage: 这里是小众软件的服务器状态页面，用来看看她们还好吗？包括了：[小众软件](https://www.appinn.com/)、[小众软件论坛](https://meta.appinn.net)、论坛图片服务器
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
