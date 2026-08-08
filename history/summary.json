@@ -76,17 +76,17 @@
     "url": "https://meta.appinn.net",
     "icon": "https://icons.duckduckgo.com/ip3/meta.appinn.net.ico",
     "slug": "meta-appinn",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.46%",
-    "time": 1044,
-    "timeDay": 1669,
-    "timeWeek": 672,
-    "timeMonth": 600,
-    "timeYear": 969,
+    "time": 1045,
+    "timeDay": 1434,
+    "timeWeek": 738,
+    "timeMonth": 619,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2025-10-06": 497,
       "2025-10-05": 1440,
@@ -106,7 +106,8 @@
       "2026-04-02": 52,
       "2026-04-03": 43,
       "2026-04-09": 65,
-      "2026-05-16": 54
+      "2026-05-16": 54,
+      "2026-08-08": 0
     }
   },
   {
